@@ -1,7 +1,6 @@
 <?php
 
-// This function stores transpose
-// of A[][] in B[][]
+
 function transpose(&$A, &$B)
 {
 	$N = 6;
